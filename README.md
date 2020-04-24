@@ -1,6 +1,9 @@
-<img src="./src/assets/logo.svg">
+<img src="./src/assets/logo.svg" align="center"  />
 
 ---
+<img src="./screenshots/ipad.png" align="center" width="500" />
+
+
 
 Github Explorer is a **Single Page Application** to search, save and explore issues, forks and stars of any **public** Github repository.
 
@@ -15,7 +18,7 @@ Github Explorer is a **Single Page Application** to search, save and explore iss
 ## Requirements
 
 - Node v12 or higher
-- NPM or Yarn 
+- NPM or Yarn
 
 ## Setup
 
