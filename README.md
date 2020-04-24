@@ -1,7 +1,7 @@
-<img src="./src/assets/logo.svg" align="center"  />
+<img src="./src/assets/logo.svg" float="right"  />
 
 ---
-<img src="./screenshots/ipad.png" align="center" width="500" />
+<img src="./screenshots/ipad.png" float="right" width="500" />
 
 
 
