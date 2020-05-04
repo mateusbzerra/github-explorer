@@ -1,8 +1,9 @@
-<img src="./src/assets/logo.svg" float="right"  />
+<p align="center" ><img src="./src/assets/logo.svg" float="right"  /></p>
 
 ---
+<p align="center">
 <img src="./screenshots/ipad.png" float="right" width="350" />
-
+</p>
 
 
 Github Explorer is a **Single Page Application** to search, save and explore issues, forks and stars of any **public** Github repository.
